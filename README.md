@@ -1,6 +1,7 @@
 # 🧪 Drug Toxicity Predictor
 
 A machine learning–inspired web application that predicts the toxicity of drug candidates using molecular descriptors computed from SMILES notation. Built for early-stage drug screening to reduce reliance on costly lab testing.
+In continuation of Research : https://github.com/Jaisica77/openpit_Rockfall_AiML
 
 🔗 **Live Demo:** [https://toxicity-app-c907.onrender.com](https://toxicity-app-c907.onrender.com)
 
